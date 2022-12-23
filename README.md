@@ -11,3 +11,4 @@ There are several physical forces that can affect the relationship between mass 
     4. Weak nuclear force: The weak nuclear force is the force that is responsible for certain types of radioactive decay, such as beta decay. It is one of the four fundamental forces of nature, along with the electromagnetic force, the strong nuclear force, and gravity.
 
 The equation E=mc^2 does not take into account the effects of these forces, as it is a fundamental principle of physics that describes the relationship between mass and energy in a general sense. It is a widely accepted and well-established scientific theory, but it is not a complete description of the behavior of mass and energy in all circumstances.
+**The equation E_total = E + E_g + E_e + E_b + E_k represents the total energy of an object, which is the sum of its kinetic energy (E), gravitational potential energy (E_g), electric potential energy (E_e), binding energy (E_b), and kinetic energy (E_k).** 
