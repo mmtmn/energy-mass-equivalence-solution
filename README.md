@@ -1,4 +1,4 @@
-# energy-mass-equivalence-solution
+# Energy Mass Equivalence Solution
 
 There are several physical forces that can affect the relationship between mass and energy, which the equation E=mc^2 does not take into consideration. Some examples of these forces include:
 
