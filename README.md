@@ -16,7 +16,4 @@ The equation E=mc^2 does not take into account the effects of these forces, as i
 
 **The equation E_total = E + E_g + E_e + E_b + E_k represents the total energy of an object, which is the sum of its kinetic energy (E), gravitational potential energy (E_g), electric potential energy (E_e), binding energy (E_b), and kinetic energy (E_k).** 
 
-We than bruteforce it, it still requires some logic cleaning so its more efficient and only prints our mathematically valid iterations of the equations.
-
-![primitive brute forcing img](https://github.com/mmtmn/energy-mass-equivalence-solution/blob/main/assets/bruteforcing.png)
-![terminal goes hard at it](https://github.com/mmtmn/energy-mass-equivalence-solution/blob/main/assets/terminal%20goes%20brrrrrrrrrrrrrrr.png)
+Than I bruteforce it in a very primitive way, it still requires some logic cleaning so its more efficient and only prints our mathematically valid iterations of the equations.
